@@ -1,0 +1,13 @@
+C:\Users\Dev\Desktop\aulaPooHeranca\bin\Debug\netcoreapp3.1\aulaPooHerança.exe
+C:\Users\Dev\Desktop\aulaPooHeranca\bin\Debug\netcoreapp3.1\aulaPooHerança.deps.json
+C:\Users\Dev\Desktop\aulaPooHeranca\bin\Debug\netcoreapp3.1\aulaPooHerança.runtimeconfig.json
+C:\Users\Dev\Desktop\aulaPooHeranca\bin\Debug\netcoreapp3.1\aulaPooHerança.runtimeconfig.dev.json
+C:\Users\Dev\Desktop\aulaPooHeranca\bin\Debug\netcoreapp3.1\aulaPooHerança.dll
+C:\Users\Dev\Desktop\aulaPooHeranca\bin\Debug\netcoreapp3.1\aulaPooHerança.pdb
+C:\Users\Dev\Desktop\aulaPooHeranca\obj\Debug\netcoreapp3.1\aulaPooHerança.csprojAssemblyReference.cache
+C:\Users\Dev\Desktop\aulaPooHeranca\obj\Debug\netcoreapp3.1\aulaPooHerança.AssemblyInfoInputs.cache
+C:\Users\Dev\Desktop\aulaPooHeranca\obj\Debug\netcoreapp3.1\aulaPooHerança.AssemblyInfo.cs
+C:\Users\Dev\Desktop\aulaPooHeranca\obj\Debug\netcoreapp3.1\aulaPooHerança.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\aulaPooHeranca\obj\Debug\netcoreapp3.1\aulaPooHerança.dll
+C:\Users\Dev\Desktop\aulaPooHeranca\obj\Debug\netcoreapp3.1\aulaPooHerança.pdb
+C:\Users\Dev\Desktop\aulaPooHeranca\obj\Debug\netcoreapp3.1\aulaPooHerança.genruntimeconfig.cache
